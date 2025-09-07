@@ -3,7 +3,7 @@
 console.log('Welcome to Clean Code Essentials');
 
 function greet() {
-    console.log('Welcome to Clean Code Essentials');
+    // Removed the duplicate greeting
 }
 
 greet();
