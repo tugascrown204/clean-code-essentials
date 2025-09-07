@@ -2,6 +2,12 @@
 
 console.log('Welcome to Clean Code Essentials');
 
+function greet() {
+    console.log('Welcome to Clean Code Essentials');
+}
+
+greet();
+
 function main() {
     // Application logic goes here
     // This function serves as the main entry point for the app's logic.
